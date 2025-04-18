@@ -1,0 +1,14 @@
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\bin\Debug\net8.0\TextRPG_KangEonDeok.exe
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\bin\Debug\net8.0\TextRPG_KangEonDeok.deps.json
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\bin\Debug\net8.0\TextRPG_KangEonDeok.runtimeconfig.json
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\bin\Debug\net8.0\TextRPG_KangEonDeok.dll
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\bin\Debug\net8.0\TextRPG_KangEonDeok.pdb
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\TextRPG_KangEonDeok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\TextRPG_KangEonDeok.AssemblyInfoInputs.cache
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\TextRPG_KangEonDeok.AssemblyInfo.cs
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\TextRPG_KangEonDeok.csproj.CoreCompileInputs.cache
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\TextRPG_KangEonDeok.dll
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\refint\TextRPG_KangEonDeok.dll
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\TextRPG_KangEonDeok.pdb
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\TextRPG_KangEonDeok.genruntimeconfig.cache
+C:\Users\tree4\source\repos\TextRPG_KangEonDeok\TextRPG_KangEonDeok\obj\Debug\net8.0\ref\TextRPG_KangEonDeok.dll
